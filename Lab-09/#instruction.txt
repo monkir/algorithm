@@ -1,0 +1,5 @@
+Instructions
+You have to Solve these Three problem and submit only the .cpp files.
+	1. Coin Changing Problem
+	2. Fractional Knapsack Problem
+	3. Activity Selection Problem

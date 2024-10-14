@@ -1,3 +1,0 @@
-Instruction:
-	1. Implement 0/1 Knapsack Problem's Solution using DP
-	2. Implement  Longest Common Subsequence (LCS) Problem's Solution using DP

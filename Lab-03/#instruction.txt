@@ -1,0 +1,4 @@
+Instructions
+	1. Merge Sort
+	2. Counting Sort including negative numbers
+You have to upload only the .cpp files
